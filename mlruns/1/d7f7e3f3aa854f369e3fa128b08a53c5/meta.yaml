@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jprezler/code/JPRezler/TaxiFareModel/mlruns/1/d7f7e3f3aa854f369e3fa128b08a53c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d7f7e3f3aa854f369e3fa128b08a53c5
+run_uuid: d7f7e3f3aa854f369e3fa128b08a53c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621335488121
+status: 1
+tags: []
+user_id: unknown
